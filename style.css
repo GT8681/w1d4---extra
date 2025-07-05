@@ -407,21 +407,16 @@ body {
         bottom: 60px;        
     }
     .new{
-       max-width: 50px;
-       position: absolute;
-       top: 160px;
+        max-width: 50px;
+        position: absolute;
+       top: 165px;
        left: 130px;
     }
        
 .new2{
-    max-width: 50px;
+     max-width: 50px;
     position: absolute;
     bottom: 60px;
     right: 10px;
 }
-.new3{
-    position: absolute;
-    max-width: 50px;
-    top:  165px ;
-    left: 130px;
-}
+ 
