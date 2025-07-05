@@ -168,35 +168,40 @@ body {
         margin-top: 30px;
         background-color: white;
         width: 375px;
-        height: 420px;
+        height: 460px;
         margin-right: 35px;
         
     }
+    .extra h6{
+        font-size: 12px;
+        font-weight: 400;
+
+    }
     .img-extra2{
-        max-width: 120px;
-        min-height: 100px;
+        max-width: 200px;
+        min-height: 120px;
         position: absolute;
         left: 10px;
         top: 80px;
     }
     .img-extra3{
-        max-width: 120px;
-        min-height: 100px;
+        max-width: 200px;
+        min-height: 120px;
         position: absolute;
         right: 2%;
         top: 80px;
     }
 
     .img-extra4{
-        max-width: 120px;
-        min-height: 100px;
+        max-width: 190px;
+        min-height: 120px;
         position: absolute;
         bottom: 80px;
         left: 5px;
     }
     .img-extra5{
-        max-width: 120px;
-        min-height: 100px;
+        max-width: 190px;
+        min-height: 120px;
         position: absolute;
         right: 20px;
         bottom: 80px;
@@ -207,25 +212,25 @@ body {
     }
     .description1{
         position: absolute;
-        top: 180px;
+        top: 210px;
         left: 40px;
     }
     .description2{
         position: absolute;
-        top: 180px;
-        right: 75px;
+        top: 210px;
+        right: 90px;
 
     }
     .description3{
         position: absolute;
-        bottom: 70px;
+        bottom: 60px;
         left: 40px;
 
     }
 
     .description4{
         position: absolute;
-        bottom: 70px;
+        bottom: 60px;
      right: 120px;
 
     }
@@ -236,31 +241,31 @@ body {
         left: 20px;
     }
     .img-extra6{
-        max-width: 120px;
-        min-height: 100px;
+        max-width: 140px;
+        min-height: 120px;
         position: absolute;
         left: 25px;
         top: 80px;
     }
     .img-extra7{
-        max-width: 120px;
-        min-height: 100px;
+        max-width: 140px;
+        min-height: 120px;
         position: absolute;
         right: 25px;
         top: 80px;
     }
 
     .img-extra8{
-        max-width: 120px;
-        min-height: 100px;
+        max-width: 140px;
+        min-height: 120px;
         position: absolute;
         bottom: 80px;
         left: 25px;
     }
     .img-extra9{
         
-        max-width: 120px;
-        min-height: 100px;
+        max-width: 140px;
+        min-height: 120px;
         position: absolute;
         right: 25px;
         bottom: 80px;
@@ -270,12 +275,12 @@ body {
     .description5{
         position: absolute;
       left: 25px;
-      top: 180px;
+      top: 205px;
     }
     .description6{
         position: absolute;
-        right: 100px;
-        top: 180px;
+        right: 120px;
+        top: 205px;
         
     }
     .description7{
@@ -288,34 +293,34 @@ body {
 
     .description8{
         position: absolute;
-        right: 85px;
+        right: 100px;
         bottom: 60px;        
     }
     .img-extra10{
-        max-width: 120px;
-        min-height: 100px;
+        max-width: 140px;
+        min-height: 120px;
         position: absolute;
         left: 25px;
         top: 80px;
     }
     .img-extra11{
-        max-width: 120px;
-        min-height: 100px;
+        max-width: 140px;
+        min-height: 120px;
         position: absolute;
         right: 25px;
         top: 80px;
     }
 
     .img-extra12{
-        max-width: 120px;
-        min-height: 100px;
+        max-width: 140px;
+        min-height: 120px;
         position: absolute;
         bottom: 80px;
         left: 25px;
     }
     .img-extra13{
-        max-width: 120px;
-        min-height: 100px;
+        max-width: 140px;
+        min-height: 120px;
         
         position: absolute;
         right: 25px;
@@ -325,12 +330,12 @@ body {
     .description9{
         position: absolute;
       left: 25px;
-      top: 185px;
+      top: 205px;
     }
     .description10{
         position: absolute;
-        right: 100px;
-        top: 185px;
+        right: 120px;
+        top: 205px;
         
     }
       
@@ -342,35 +347,35 @@ body {
 
     .description12{
         position: absolute;
-        right: 100px;
+        right: 120px;
         bottom: 60px;        
     }
 
     .img-extra14{
-        max-width: 120px;
-        min-height: 100px;
+        max-width: 140px;
+        min-height: 120px;
         position: absolute;
         left: 25px;
         top: 80px;
     }
     .img-extra15{
-        max-width: 120px;
-        min-height: 100px;
+        max-width: 140px;
+        min-height: 120px;
         position: absolute;
         right: 25px;
         top: 80px;
     }
 
     .img-extra16{
-        max-width: 120px;
-        min-height: 100px;
+        max-width: 140px;
+        min-height: 120px;
         position: absolute;
         bottom: 80px;
         left: 25px;
     }
     .img-extra17{
-        max-width: 120px;
-        min-height: 100px;
+        max-width: 140px;
+        min-height: 120px;
         
         position: absolute;
         right: 25px;
@@ -381,12 +386,12 @@ body {
     .description13{
         position: absolute;
       left: 25px;
-      top: 185px;
+      top: 205px;
     }
     .description14{
         position: absolute;
-        right: 60px;
-        top: 185px;
+        right: 80px;
+        top: 205px;
         
     }
       
@@ -398,8 +403,25 @@ body {
 
     .description16{
         position: absolute;
-        right: 70px;
+        right: 90px;
         bottom: 60px;        
     }
+    .new{
+       max-width: 50px;
+       position: absolute;
+       top: 160px;
+       left: 130px;
+    }
        
-
+.new2{
+    max-width: 50px;
+    position: absolute;
+    bottom: 60px;
+    right: 10px;
+}
+.new3{
+    position: absolute;
+    max-width: 50px;
+    top:  165px ;
+    left: 130px;
+}
