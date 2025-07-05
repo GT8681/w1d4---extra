@@ -1,0 +1,405 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #eaeded;
+}
+
+.header {
+    background-color: #222f3e;
+    padding: 10px 20px;
+}
+
+.header-image {
+    width: 120px;
+}
+
+.nav-bar {
+    background-color: #354758;
+    padding: 10px 15px;
+
+}
+
+.nav-bar a {
+    color: white;
+    text-decoration: none;
+    padding-right: 10px;
+
+}
+
+.main-container {
+    padding: 25px;
+}
+
+.orange-bar {
+    background-color: orange;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    font-size: 10px;
+    font-weight: 100%;
+    margin-bottom: 15px;
+}
+
+.image-holiday {
+   object-fit: cover;
+   background-repeat: repeat;
+  
+ 
+}
+
+.holiday-container {
+    position: relative;
+  
+}
+
+.holiday-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+
+
+}
+
+.holiday-text p {
+    text-align: center;
+    padding: 25px;
+}
+
+.conteiner2 {
+    width: 100%;
+    background-color: white;
+
+
+}
+
+.image-cont {
+    margin-right: 25px;
+    text-align: center;
+    width: 380px;
+    height: 380px;
+    padding: 5px;
+    border-radius: 30px;
+}
+
+.conteiner2 {
+    margin-top: 30px;
+}
+
+.conteiner2 div {
+    display: inline;
+}
+
+.conteiner2 p {
+
+    padding: 20px 20px;
+}
+
+.conteiner2 a {
+    text-decoration: none;
+    color: blue;
+    margin-left: 15px;
+}
+
+.second-image {
+    width: 100%;
+    margin-top: 25px;
+}
+
+.conteiner3 h6 {
+    text-align: center;
+    font-size: 15px;
+    font-weight: 100;
+}
+
+.conteiner3 a {
+    text-decoration: none;
+    color: blue;
+    font-weight: 600;
+    font-size: 20px;
+    margin-left: 15px;
+}
+
+.terzo-image {
+    width: 100%;
+    margin-top: 25px;
+}
+
+.footer h6 {
+    text-align: center;
+    background-color: #354758;
+    padding: 15px;
+    color: white;
+}
+
+.footer2 {
+    background-color: #222f3e;
+    padding: 80px;
+}
+
+.image-footer {        
+    width: 200px;
+    text-align: center;
+}
+.footer2{
+    position: relative;
+
+}
+
+.footer a{
+    color: white;
+}
+.footer3{
+    
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    }
+      .extra{
+        display: inline-block;
+        position: relative;
+        margin-top: 30px;
+        background-color: white;
+        width: 375px;
+        height: 420px;
+        margin-right: 35px;
+        
+    }
+    .img-extra2{
+        max-width: 120px;
+        min-height: 100px;
+        position: absolute;
+        left: 10px;
+        top: 80px;
+    }
+    .img-extra3{
+        max-width: 120px;
+        min-height: 100px;
+        position: absolute;
+        right: 2%;
+        top: 80px;
+    }
+
+    .img-extra4{
+        max-width: 120px;
+        min-height: 100px;
+        position: absolute;
+        bottom: 80px;
+        left: 5px;
+    }
+    .img-extra5{
+        max-width: 120px;
+        min-height: 100px;
+        position: absolute;
+        right: 20px;
+        bottom: 80px;
+    }
+    .extra h3{
+        padding: 20px;
+        
+    }
+    .description1{
+        position: absolute;
+        top: 180px;
+        left: 40px;
+    }
+    .description2{
+        position: absolute;
+        top: 180px;
+        right: 75px;
+
+    }
+    .description3{
+        position: absolute;
+        bottom: 70px;
+        left: 40px;
+
+    }
+
+    .description4{
+        position: absolute;
+        bottom: 70px;
+     right: 120px;
+
+    }
+    .h6-extra{
+        position: absolute;
+        color: rgb(108, 108, 243);
+        bottom: 15px;
+        left: 20px;
+    }
+    .img-extra6{
+        max-width: 120px;
+        min-height: 100px;
+        position: absolute;
+        left: 25px;
+        top: 80px;
+    }
+    .img-extra7{
+        max-width: 120px;
+        min-height: 100px;
+        position: absolute;
+        right: 25px;
+        top: 80px;
+    }
+
+    .img-extra8{
+        max-width: 120px;
+        min-height: 100px;
+        position: absolute;
+        bottom: 80px;
+        left: 25px;
+    }
+    .img-extra9{
+        
+        max-width: 120px;
+        min-height: 100px;
+        position: absolute;
+        right: 25px;
+        bottom: 80px;
+    
+    }
+
+    .description5{
+        position: absolute;
+      left: 25px;
+      top: 180px;
+    }
+    .description6{
+        position: absolute;
+        right: 100px;
+        top: 180px;
+        
+    }
+    .description7{
+        position: absolute;
+        bottom: 60px;
+        left: 25px;
+        
+
+    }
+
+    .description8{
+        position: absolute;
+        right: 85px;
+        bottom: 60px;        
+    }
+    .img-extra10{
+        max-width: 120px;
+        min-height: 100px;
+        position: absolute;
+        left: 25px;
+        top: 80px;
+    }
+    .img-extra11{
+        max-width: 120px;
+        min-height: 100px;
+        position: absolute;
+        right: 25px;
+        top: 80px;
+    }
+
+    .img-extra12{
+        max-width: 120px;
+        min-height: 100px;
+        position: absolute;
+        bottom: 80px;
+        left: 25px;
+    }
+    .img-extra13{
+        max-width: 120px;
+        min-height: 100px;
+        
+        position: absolute;
+        right: 25px;
+        bottom: 80px;
+    
+    }
+    .description9{
+        position: absolute;
+      left: 25px;
+      top: 185px;
+    }
+    .description10{
+        position: absolute;
+        right: 100px;
+        top: 185px;
+        
+    }
+      
+    .descriptio11{
+        position: absolute;
+        bottom: 60px;
+        left: 25px;
+    }
+
+    .description12{
+        position: absolute;
+        right: 100px;
+        bottom: 60px;        
+    }
+
+    .img-extra14{
+        max-width: 120px;
+        min-height: 100px;
+        position: absolute;
+        left: 25px;
+        top: 80px;
+    }
+    .img-extra15{
+        max-width: 120px;
+        min-height: 100px;
+        position: absolute;
+        right: 25px;
+        top: 80px;
+    }
+
+    .img-extra16{
+        max-width: 120px;
+        min-height: 100px;
+        position: absolute;
+        bottom: 80px;
+        left: 25px;
+    }
+    .img-extra17{
+        max-width: 120px;
+        min-height: 100px;
+        
+        position: absolute;
+        right: 25px;
+        bottom: 80px;
+    
+    }
+
+    .description13{
+        position: absolute;
+      left: 25px;
+      top: 185px;
+    }
+    .description14{
+        position: absolute;
+        right: 60px;
+        top: 185px;
+        
+    }
+      
+    .description15{
+        position: absolute;
+        bottom: 60px;
+        left: 25px;
+    }
+
+    .description16{
+        position: absolute;
+        right: 70px;
+        bottom: 60px;        
+    }
+       
+
